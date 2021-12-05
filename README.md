@@ -1,5 +1,5 @@
 # Cancer-risk-by-county
-The project plots cancer risks by county on the USA map. Every point is centered at the county. The size of each point depends on the population 
+The project plots cancer risks by county on the USA map. Every point is centered at the correponding county. The size of each point depends on the population 
 in that county. The color of each point is determined by the cancer risk. The red point means that this county has a high cancer risk. The blue 
 point means that this county has a low cancer risk.
 
